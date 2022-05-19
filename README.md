@@ -1,4 +1,4 @@
-# Hola👋 Tengan una bienvenida al Club de Programación Competitiva FACET-UNT
+# Hola👋 Tengan una bienvenida al repo del Club de Programación Competitiva FACET-UNT
 
 Este es el repositorio del Club de Programación Competitiva de la Facultad de Ciencias Exactas e Ingeniería de la Universidad Nacional de Tucumán.
 
